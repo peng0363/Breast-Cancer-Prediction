@@ -6,4 +6,4 @@ To decide the best model, I conducted nested grid search CV on the four models. 
 
 
 The original data source is from Kaggle. Link as below:  
-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/code?datasetId=180&sortBy=voteCount
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
